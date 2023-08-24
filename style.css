@@ -1,0 +1,93 @@
+/* body {
+  min-height: 3000px;
+} */
+.bagian-atas {
+  font-family: "Righteous", cursive;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffa500;
+}
+.bagian-tentang {
+  font-family: "Righteous", cursive;
+}
+#projects {
+  background-color: #ffa500;
+}
+#galeri {
+  background-color: #ffa500;
+  justify-content: center;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+footer {
+  background-color: #ffa500;
+  padding: 1rem 0;
+}
+
+footer .social {
+  padding: 0.5rem 0;
+}
+footer .social a {
+  color: #fff;
+  margin: 1rem;
+}
+
+footer .social a:hover {
+  color: black;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: black;
+}
+h1 span {
+  color: white;
+}
+a {
+  font-size: 3rem;
+  color: white;
+}
+h2 {
+  font-family: "Righteous", cursive;
+}
+.kontak a {
+  font-family: "Righteous", cursive;
+  color: black;
+  font-size: 1.5rem;
+}
+/* kontak */
+.kontak .row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  justify-content: center;
+}
+
+.kontak .row .kontak-card {
+  text-align: center;
+}
+.kontak .row .kontak-card-img {
+  border-radius: 50%;
+  width: 15%;
+}
+.mat {
+  font-size: 1.5rem;
+  font-weight: 10;  
+}
+
+.navbar {
+  display: flex;
+}
+
+.contact .contaiter .row .kiki {
+  display: flex;
+}
+
+.contact .contaiter .row .anggi {
+  display: flex;
+}
