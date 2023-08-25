@@ -4,6 +4,9 @@
 .bagian-atas {
   font-family: "Righteous", cursive;
 }
+.navbar{
+  justify-content: center;
+}
 .jumbotron {
   padding-top: 6rem;
   background-color: #ffa500;
